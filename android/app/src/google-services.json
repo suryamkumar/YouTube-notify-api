@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266097539163",
+    "project_id": "nofitybear-api-test",
+    "storage_bucket": "nofitybear-api-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266097539163:android:8bc6c21bd7fe1d5a22a77e",
+        "android_client_info": {
+          "package_name": "com.example.notifybear_api_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcC7jlm94ppU6derHFV2Vqr0ZOXOKM1no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
